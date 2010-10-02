@@ -1,0 +1,11 @@
+h2. Presentation Theme
+
+p. When I was holding presentations with some Eclipse install, sometimes there was a need to use bigger fonts, but that involved quite a tedious work in the user interface. The situation is even worse, if I happen to demo using my main workspace.
+
+p. This is why I am proposing this new Eclipse theme, that tries to address this need by adding a single, non-rewriting option to the Eclipse preferences to change the theme.
+
+h3. Usage 
+
+p. Open the _Preferences_ page, select  _General/Appeareance_, then at the middle of the screen select the _Current theme_ as *Presentation theme*. Enjoy.
+
+p. If you are done with the presentation, simply switch back to the theme you were using.
