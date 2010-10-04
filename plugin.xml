@@ -18,6 +18,10 @@
                   value="Monospace-regular-13"
                   ws="gtk">
             </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Courier New-regular-13">
+            </fontValue>
          </fontOverride>
          <fontOverride
                id="org.eclipse.jface.dialogfont">
@@ -30,6 +34,10 @@
                   os="linux"
                   value="Sans Serif-regular-12"
                   ws="gtk">
+            </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Segoe UI-regular-12">
             </fontValue>
          </fontOverride>
          <fontOverride
@@ -44,6 +52,10 @@
                   value="Sans Serif-regular-13"
                   ws="gtk">
             </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Segoe UI-regular-12">
+            </fontValue>
          </fontOverride>
          <fontOverride
                id="org.eclipse.ui.workbench.texteditor.blockSelectionModeFont"
@@ -57,6 +69,10 @@
                   os="linux"
                   value="Monospace-regular-13"
                   ws="gtk">
+            </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Courier New-regular-13">
             </fontValue>
          </fontOverride>
       </theme>
