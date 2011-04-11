@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/hu.cubussapiens.themes.presentation.feature_0.1.0.qualifier.jar" id="hu.cubussapiens.themes.presentation.feature" version="0.1.0.qualifier">
+      <category name="hu.cubussapiens.presentation"/>
+   </feature>
+   <feature url="features/hu.cubussapiens.themes.presentation.feature_0.1.1.qualifier.jar" id="hu.cubussapiens.themes.presentation.feature" version="0.1.1.qualifier">
+      <category name="hu.cubussapiens.presentation"/>
+   </feature>
+   <category-def name="hu.cubussapiens.presentation" label="Presentation Theme"/>
+</site>

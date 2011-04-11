@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.themes">
+      <theme
+            id="hu.cubussapiens.themes.presentation"
+            name="Presentation Mode">
+         <fontOverride
+               id="org.eclipse.jface.textfont">
+            <fontValue
+                  os="osx"
+                  value="Monaco-regular-14"
+                  ws="cocoa">
+            </fontValue>
+            <fontValue
+                  os="linux"
+                  value="Monospace-regular-13"
+                  ws="gtk">
+            </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Courier New-regular-13">
+            </fontValue>
+         </fontOverride>
+         <fontOverride
+               id="org.eclipse.jface.dialogfont">
+            <fontValue
+                  os="osx"
+                  value="Lucida Grande-regular-13"
+                  ws="cocoa">
+            </fontValue>
+            <fontValue
+                  os="linux"
+                  value="Sans Serif-regular-12"
+                  ws="gtk">
+            </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Segoe UI-regular-12">
+            </fontValue>
+         </fontOverride>
+         <fontOverride
+               id="org.eclipse.ui.workbench.TAB_TEXT_FONT">
+            <fontValue
+                  os="osx"
+                  value="Lucida Grande-regular-14"
+                  ws="cocoa">
+            </fontValue>
+            <fontValue
+                  os="linux"
+                  value="Sans Serif-regular-13"
+                  ws="gtk">
+            </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Segoe UI-regular-12">
+            </fontValue>
+         </fontOverride>
+         <fontOverride
+               id="org.eclipse.ui.workbench.texteditor.blockSelectionModeFont"
+               value="org.eclipse.jface.textfont">
+            <fontValue
+                  os="osx"
+                  value="Monaco-regular-14"
+                  ws="cocoa">
+            </fontValue>
+            <fontValue
+                  os="linux"
+                  value="Monospace-regular-13"
+                  ws="gtk">
+            </fontValue>
+            <fontValue
+                  os="win32"
+                  value="Courier New-regular-13">
+            </fontValue>
+         </fontOverride>
+      </theme>
+   </extension>
+
+</plugin>
