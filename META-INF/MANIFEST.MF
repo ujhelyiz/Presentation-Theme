@@ -3,7 +3,6 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Presentation Theme
 Bundle-SymbolicName: hu.cubussapiens.themes.presentation;singleton:=true
 Bundle-Version: 0.1.1.qualifier
-Bundle-Activator: hu.cubussapiens.themes.presentation.Activator
 Bundle-Vendor: Zoltan Ujhelyi/cubussapiens.hu
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
