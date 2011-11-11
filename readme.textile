@@ -4,7 +4,7 @@ p. When I was holding presentations with some Eclipse install, sometimes there w
 
 p. This is why I am proposing this new Eclipse theme, that tries to address this need by adding a single, non-rewriting option to the Eclipse preferences to change the theme.
 
-p. For a longer introduction and screenshots, visit the announcement blog post at http://cubussapiens.hu/2010/10/presentation-theme-for-eclipse/ You can also download the software from our update site: http://eclipse.cubussapiens.hu
+p. For a longer introduction and screenshots, visit "the announcement blog post":http://cubussapiens.hu/2010/10/presentation-theme-for-eclipse/ You can also download the software from our update site: _http://eclipse.cubussapiens.hu_
 
 h3. Usage 
 
